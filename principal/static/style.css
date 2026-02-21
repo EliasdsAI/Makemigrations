@@ -1,0 +1,17 @@
+.cap img{
+width: 1900px;
+height: 700px;
+}
+.apres img{
+width: 1000px;
+height: 600px;
+}
+.card-img-top{
+    width: 280px;
+    height: 200px;
+    object-fit: cover;
+}
+.card-body{
+width: 400px;
+height: 200px;
+}
